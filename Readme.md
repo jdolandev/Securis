@@ -1,6 +1,8 @@
 Securis
 =========
 
+![Securis Logo](https://raw.githubusercontent.com/jdolandev/Securis/master/lock.png =128x128)
+
 Securis is a secure, cross platform chat service written in python
 
 This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.  
