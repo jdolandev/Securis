@@ -17,7 +17,7 @@ Tech
 
 Securis depends on a number of free, open source projects
 
-* [Pycrypto] - awesome web-based text editor
+* [Pycrypto] - Awesome library of cryptographic algorithms. Essential for this program to work.
 * [gevent]   - Asynchronous networking
 * [PyQT]     - Cross Platform Graphical User Interface 
 
