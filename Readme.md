@@ -1,7 +1,7 @@
 Securis
 =========
 
-![Securis Logo](https://raw.githubusercontent.com/jdolandev/Securis/master/lock.png =128x128)
+-> ![Securis Logo](https://raw.githubusercontent.com/jdolandev/Securis/master/lock.png) <-
 
 Securis is a secure, cross platform chat service written in python
 
